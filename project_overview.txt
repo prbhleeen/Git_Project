@@ -1,1 +1,1 @@
-This is a Git project demonstrating repository setup.
+Additional changes made
